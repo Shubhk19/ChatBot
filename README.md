@@ -1,4 +1,9 @@
 # ChatBot
+## About
 This ChatBot is created by Students in Delhi Technological University
--Trideep Sharma
--
+
+## Authors
+* Trideep Sharma	
+*
+*
+*
